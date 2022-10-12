@@ -1,0 +1,25 @@
+{
+  "name": "node-trial",
+  "version": "1.0.0",
+  "description": "best package by gagan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagan-singh11/gagansingh.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "\"ISC\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagan-singh11/gagansingh/issues"
+  },
+  "homepage": "https://github.com/gagan-singh11/gagansingh#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
